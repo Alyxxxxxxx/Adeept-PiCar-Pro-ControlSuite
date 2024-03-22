@@ -58,12 +58,7 @@ A list of technologies used within the project:
 ***
 To get started with adeeptpicarpro, follow these instructions for installation:
 
-1. **Install from PyPI**
-You can install adeepipicarpro directly from PyPI using pip. First, make sure you have Python and pip installed on your system.
-```
-$ pip install adeeptpicarpro
-```
-2. **Install From Github**
+1. **Install From Github**
 Alternatively, you can install the package from its GitHub repository. This method is useful if you want to get the latest development version or if you plan to contribute to the project.
 
 * Clone the Repository: First, clone the adeepipicarpro repository to your local machine
@@ -78,7 +73,7 @@ $ cd adeeptpicarpro
 ```
 $ python setup.py install
 ```
-3. **Verify Installation**
+2. **Verify Installation**
 Once installed, you can verify that adeeptpicarpro is correctly installed by importing it in a Python environment.
 ```
 import adeeptpicarpro
