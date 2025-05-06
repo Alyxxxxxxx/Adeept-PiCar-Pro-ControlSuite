@@ -1,4 +1,4 @@
-# Adeept PiCar Pro Control Suite
+# Adeept-PiCar-Pro-ControlSuite
 
 Adeept PiCar Pro Control Suite is a Python package specifically crafted to facilitate the management of various functionalities inherent to the Adeept Picar Pro robot. This package is based on the official library provided by Adeept. These functionalities encompass the precise control of movement, servo motor operation, data display on its screen, illumination management, and supervision of sensors including accelerometers and line trackers.
 
