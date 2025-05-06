@@ -1,19 +1,18 @@
 # Adeept PiCar Pro Control Suite
 
+Adeept PiCar Pro Control Suite is a Python package specifically crafted to facilitate the management of various functionalities inherent to the Adeept Picar Pro robot. This package is based on the official library provided by Adeept. These functionalities encompass the precise control of movement, servo motor operation, data display on its screen, illumination management, and supervision of sensors including accelerometers and line trackers.
+
+This project is currently under active development. Please feel free to contribute or provide feedback. Detailed installation instructions, comprehensive usage examples, and other pertinent information will be added in due course.
+
+
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Hardware Prerequisites](#hardware-prerequisites)
-3. [Technologies](#technologies)
-4. [Installation](#installation)
+1. [Hardware Prerequisites](#hardware-prerequisites)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 6. [Licence](#licence)
 
-### General Info
-***
-Adeept PiCar Pro Control Suite is a Python package specifically crafted to facilitate the management of various functionalities inherent to the Adeept Picar Pro robot. This package is based on the official library provided by Adeept. These functionalities encompass the precise control of movement, servo motor operation, data display on its screen, illumination management, and supervision of sensors including accelerometers and line trackers.
-
-This project is currently under active development. Please feel free to contribute or provide feedback. Detailed installation instructions, comprehensive usage examples, and other pertinent information will be added in due course.
 
 ### Hardware Prerequisites
 ***
